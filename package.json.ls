@@ -1,5 +1,5 @@
 name    : \colored-console
-version : \0.9
+version : \0.9.0
 
 description : 'Colored console logging for Node'
 
