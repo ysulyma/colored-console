@@ -18,7 +18,7 @@
     ccl.alt("alternate");
     ccl.alt("alternate");
     
-<img src="http://i.imgur.com/goJdO.png" border = "0"/>
+<img src="http://i.imgur.com/P6KC34m.png" border = "0"/>
 
 ### See also
 
