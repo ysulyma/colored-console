@@ -20,3 +20,5 @@ module.exports =
       @[colors[ctr++]] ...
       ctr %= colors.length
   )!
+
+  json: -> @alt JSON.stringify it, null 2

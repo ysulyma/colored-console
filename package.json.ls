@@ -1,5 +1,5 @@
 name    : \colored-console
-version : \0.9.0
+version : \0.10.0
 
 description : 'Colored console logging for Node'
 
@@ -11,4 +11,4 @@ licenses :
 
 repository: type: \git, url: \git://github.com/yuri0/colored-console.git
 
-dependencies: []
+dependencies: {}

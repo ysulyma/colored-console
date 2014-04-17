@@ -23,6 +23,9 @@
         this[colors[ctr++]].apply(this, arguments);
         return ctr %= colors.length;
       };
-    }()
+    }(),
+    json: function(it){
+      return this.alt(JSON.stringify(it, null, 2));
+    }
   };
 }).call(this);
