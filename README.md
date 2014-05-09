@@ -25,4 +25,4 @@
 [colors.js](https://github.com/Marak/colors.js)
 
 ### Source
-[git://github.com/yuri0/livescript-middleware.git](git://github.com/yuri0/colored-console.git)
+[git://github.com/yuri0/colored-console.git](git://github.com/yuri0/colored-console.git)
